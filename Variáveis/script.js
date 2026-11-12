@@ -12,3 +12,10 @@ console.log(user); // "Alice"
 user = "João";
 console.log(user); // "João" 
 
+// Declarar uma variável sem valor.
+let user 
+console.log("Guilherme Ganho");
+
+// Declarar uma variável com valor.
+let email = "guilherme@gmail.com"
+console.log(email);
