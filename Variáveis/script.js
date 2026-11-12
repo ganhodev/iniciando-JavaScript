@@ -19,3 +19,11 @@ console.log("Guilherme Ganho");
 // Declarar uma variável com valor.
 let email = "guilherme@gmail.com"
 console.log(email);
+
+// Declarar uma variável com valor fixo.
+
+const PI = 3.14;
+console.log(PI); // 3.14
+
+number = 55;
+console.log(number); // retornará erro por não pode ser alterado o valor de uma constante.
