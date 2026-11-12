@@ -1,1 +1,1 @@
-Repositóerio destinado a evolução JavaScript 
+Repositóerio destinado a evolução JavaScript do básico ao avançado
